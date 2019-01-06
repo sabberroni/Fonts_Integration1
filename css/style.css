@@ -1,0 +1,20 @@
+/*font-family: 'Playfair Display', serif;*/
+p{
+	font-family: 'Arvo', cursive;
+	font-size: 30px;
+}
+h1{
+	font-family: 'Charm', cursive;
+}
+h2{
+	font-family: 'Rancho', cursive;
+	font-size: 30px;
+}
+@font-face{
+	font-family:Presidente;
+	scr:url(../fonts/Presidente.ttf);
+}
+h3{
+	font-family:Presidente;
+	font-size:40px;
+}
